@@ -1,37 +1,30 @@
 ## Bookstore
-This project lays the foundations for Bookstore website. React part of the app is created. Also routing is set up using React Router.
+The Bookstore is a website similar to the "Awesome Books" website built in the previous module. An MVP version of it is created that allows users to:
+- Display a list of books.
+- Add a book.
+- Remove a selected book.
 
-
-![screenshot]()
-
+![screenshot](./src/images/Screenshot.png)
 
 ## Built With
 
-- JS
-- CSS
-- Github
 - React
+- Redux
+- Github
 
-## Live Demo
+## Live Link
 
-[Live Demo](coming soon)
+[Live Link](coming soon)
 
 ### Setup
 ~~~ 
-git clone git@github.com:smart1-hub/React-Math.git
-cd React-Math
-~~~
-- Open a index.html file with code editor of your choice and/or a browser.
-~~~
-Open the project using a live server extension that can be found in your code editor or by using your browser
+git clone git@github.com:smart1-hub/bookstore.git
+cd bookstore
+
 ~~~
 - install project dependencies
 ```
 npm install
-```
-- build project
-```
-npm run build
 ```
 - start project
 ```
